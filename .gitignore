@@ -4,13 +4,13 @@
 work/
 
 # Written/generated deliverables
-outputs/**/README.md
-outputs/**/report.md
-outputs/**/*.png
-outputs/**/*.jpg
-outputs/**/*.jpeg
-outputs/**/*.fig
-outputs/**/*.pdf
+**/README.md
+**/report.md
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.fig
+**/*.pdf
 
 # MATLAB autosaves and generated data
 *.asv
