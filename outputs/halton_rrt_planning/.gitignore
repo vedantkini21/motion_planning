@@ -1,0 +1,11 @@
+README.md
+report.md
+*.png
+*.jpg
+*.jpeg
+*.fig
+*.asv
+*.autosave
+*.m~
+*.mat
+*.mlx

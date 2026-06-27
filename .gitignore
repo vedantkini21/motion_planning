@@ -1,0 +1,26 @@
+# Local workspace files
+.*
+!**/.gitignore
+work/
+
+# Written/generated deliverables
+outputs/**/README.md
+outputs/**/report.md
+outputs/**/*.png
+outputs/**/*.jpg
+outputs/**/*.jpeg
+outputs/**/*.fig
+outputs/**/*.pdf
+
+# MATLAB autosaves and generated data
+*.asv
+*.autosave
+*.m~
+*.mat
+*.mlx
+slprj/
+*.slxc
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
